@@ -1,0 +1,4 @@
+#Tue Feb 13 15:11:42 IST 2018
+base.0=C\:\\Users\\Windows 10\\AndroidStudioProjects\\Android Attendance management system\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\76
+path.0=classes.dex
+renamed.0=classes.dex
